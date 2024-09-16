@@ -111,4 +111,4 @@ After setting up, you can seed the database with some initial data by running:
 
 Author
 
-Norah Kinyamasyo.
+Norah Kinyamasyo
